@@ -3,7 +3,7 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 
 ### Array
 * [Two Sum](https://github.com/snthl-s/blind-75/tree/main/TwoSum)
-* Best Time to Buy and Sell Stock
+* [Best Time to Buy and Sell Stock](https://github.com/snthl-s/blind-75/tree/main/BestTimeToBuyAndSellStock)
 * Contains Duplicate
 * Product of Array Except Self
 * Maximum Subarray
