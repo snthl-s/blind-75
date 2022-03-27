@@ -6,7 +6,7 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 * [Best Time to Buy and Sell Stock](https://github.com/snthl-s/blind-75/tree/main/BestTimeToBuyAndSellStock)
 * [Contains Duplicate](https://github.com/snthl-s/blind-75/tree/main/ContainsDuplicate)
 * [Product of Array Except Self](https://github.com/snthl-s/blind-75/tree/main/ProductOfArrayExceptSelf)
-* Maximum Subarray
+* [Maximum Subarray](https://github.com/snthl-s/blind-75/tree/main/MaximumSubArray)
 * Maximum Product Subarray
 * Find Minimum in Rotated Sorted Array
 * Search in Rotated Sorted Array
