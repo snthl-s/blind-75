@@ -8,7 +8,7 @@
      let firstIndex = 0;
      let lastIndex = nums.length - 1;
      let middleIndex = Math.round((firstIndex + lastIndex) / 2)
-     while(firstIndex !== middleIndex || middleIndex !== lastIndex) {
+     while(firstIndex !== lastIndex) {
          if(nums[middleIndex] >= nums[lastIndex])   
              {
                  firstIndex = middleIndex;
