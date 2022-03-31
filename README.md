@@ -10,7 +10,7 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 * [Maximum Product Subarray](https://github.com/snthl-s/blind-75/tree/main/MaximumProductArray)
 * [Find Minimum in Rotated Sorted Array](https://github.com/snthl-s/blind-75/tree/main/FindMinimumInRotatedSortedArray)
 * [Search in Rotated Sorted Array](https://github.com/snthl-s/blind-75/tree/main/SearchInRotatedSortedArray)
-* 3 Sum
+* [3 Sum](https://github.com/snthl-s/blind-75/tree/main/3SUM)
 * Container With Most Water
 ***
 ### Binary
