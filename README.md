@@ -11,7 +11,7 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 * [Find Minimum in Rotated Sorted Array](https://github.com/snthl-s/blind-75/tree/main/FindMinimumInRotatedSortedArray)
 * [Search in Rotated Sorted Array](https://github.com/snthl-s/blind-75/tree/main/SearchInRotatedSortedArray)
 * [3 Sum](https://github.com/snthl-s/blind-75/tree/main/3SUM)
-* Container With Most Water
+* [Container With Most Water](https://github.com/snthl-s/blind-75/tree/main/ContainerWithMostWater)
 ***
 ### Binary
 * Sum of Two Integers
