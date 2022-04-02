@@ -14,7 +14,7 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 * [Container With Most Water](https://github.com/snthl-s/blind-75/tree/main/ContainerWithMostWater)
 ***
 ### Binary
-* Sum of Two Integers
+* [Sum of Two Integers](https://github.com/snthl-s/blind-75/tree/main/SumOfTwoIntegers)
 * Number of 1 Bits
 * Counting Bits
 * Missing Number
