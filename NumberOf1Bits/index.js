@@ -4,13 +4,11 @@
  */
 var hammingWeight = function(n) {
     console.time('hammingWeight');
-    let res = 0;
-    while(n != 0) {
-        res += n%2;
-        n = n >> 1;
-    }
+
+    const result = `${n.toString(2)}`.split('').filter(bit=> Number(bit)).length;
     console.timeEnd("hammingWeight");
-    return res;
+    return result;
+
 };
 
-console.log(hammingWeight(00000000000000000000000000001011));
+console.log(hammingWeight(11));
