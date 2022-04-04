@@ -16,7 +16,7 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 ### Binary
 * [Sum of Two Integers](https://github.com/snthl-s/blind-75/tree/main/SumOfTwoIntegers)
 * [Number of 1 Bits](https://github.com/snthl-s/blind-75/tree/main/NumberOf1Bits)
-* Counting Bits
+* [Counting Bits](https://github.com/snthl-s/blind-75/tree/main/CountingBits)
 * Missing Number
 * Reverse Bits
 ***
