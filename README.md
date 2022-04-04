@@ -17,7 +17,7 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 * [Sum of Two Integers](https://github.com/snthl-s/blind-75/tree/main/SumOfTwoIntegers)
 * [Number of 1 Bits](https://github.com/snthl-s/blind-75/tree/main/NumberOf1Bits)
 * [Counting Bits](https://github.com/snthl-s/blind-75/tree/main/CountingBits)
-* Missing Number
+* [Missing Number](https://github.com/snthl-s/blind-75/tree/main/MissingNumber)
 * Reverse Bits
 ***
 ### Dynamic Programming
