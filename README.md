@@ -21,7 +21,7 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 * [Reverse Bits](https://github.com/snthl-s/blind-75/tree/main/ReverseBits)
 ***
 ### Dynamic Programming
-* Climbing Stairs
+* [Climbing Stairs](https://github.com/snthl-s/blind-75/tree/main/ClimbingStairs)
 * Coin Change
 * Longest Increasing Subsequence
 * Longest Common Subsequence
