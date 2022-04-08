@@ -22,7 +22,7 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 ***
 ### Dynamic Programming
 * [Climbing Stairs](https://github.com/snthl-s/blind-75/tree/main/ClimbingStairs)
-* Coin Change
+* [Coin Change](https://github.com/snthl-s/blind-75/tree/main/CoinChange)
 * Longest Increasing Subsequence
 * Longest Common Subsequence
 * Word Break Problem
