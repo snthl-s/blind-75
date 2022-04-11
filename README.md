@@ -24,7 +24,7 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 * [Climbing Stairs](https://github.com/snthl-s/blind-75/tree/main/ClimbingStairs)
 * [Coin Change](https://github.com/snthl-s/blind-75/tree/main/CoinChange)
 * [Longest Increasing Subsequence](https://github.com/snthl-s/blind-75/tree/main/LongestIncreasingSubsequence)
-* Longest Common Subsequence
+* [Longest Common Subsequence](https://github.com/snthl-s/blind-75/tree/main/LongestCommongSubsequence)
 * Word Break Problem
 * Combination Sum
 * House Robber
