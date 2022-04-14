@@ -25,7 +25,7 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 * [Coin Change](https://github.com/snthl-s/blind-75/tree/main/CoinChange)
 * [Longest Increasing Subsequence](https://github.com/snthl-s/blind-75/tree/main/LongestIncreasingSubsequence)
 * [Longest Common Subsequence](https://github.com/snthl-s/blind-75/tree/main/LongestCommonSubsequence)
-* Word Break Problem
+* [Word Break Problem](https://github.com/snthl-s/blind-75/tree/main/WordBreak)
 * Combination Sum
 * House Robber
 * House Robber II
